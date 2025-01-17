@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://greco-unifesp.github.io/sitemap.xml
