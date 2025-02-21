@@ -2,18 +2,18 @@
 layout: members
 title: Matheus Ramos Esteves
 description: 
-img: assets/img/members/aluno.png
-importance: 2
+img: assets/img/members/matheus.jpeg
+importance: 3
 category: Estudantes
 # toc:
 #   sidebar: left
 
 profile:
-    name: Matheus R. Esteves
+    name: Matheus Esteves
     position: Graduação @ UNIFESP
     advisor: >
         Orientador: Joahannes Costa
-    image: aluno.png
+    image: matheus.jpeg
     align: right
     image_circular: false # crops the image to make it circular
     email: matheus.esteves31@unifesp.br
