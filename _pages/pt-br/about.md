@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
     </div>
 </div>
 
-O Grupo de Redes de Computadores (**GRECO**) foi fundado no ano de 2024 no [Instituto de Ciência e Tecnologia (ICT)](https://www.unifesp.br/campus/sjc/) da [Universidade Federal de São Paulo (UNIFESP)](https://www.unifesp.br), na cidade de São José dos Campos (SP), com o objetivo de acolher e promover projetos de pesquisa na área de Redes de Computadores e Sistemas Distribuídos.
+O Grupo de Pesquisa em Redes de Computadores (**GRECO**) foi fundado no ano de 2024 no [Instituto de Ciência e Tecnologia (ICT)](https://www.unifesp.br/campus/sjc/) da [Universidade Federal de São Paulo (UNIFESP)](https://www.unifesp.br), na cidade de São José dos Campos (SP), com o objetivo de acolher e promover projetos de pesquisa na área de Redes de Computadores e Sistemas Distribuídos.
 
 Nossa equipe inclui professores permanentes, pesquisadores em nível de pós-doutorado, doutorandos, mestrandos e alunos de graduação, que desenvolvem pesquisas de Iniciação Científica e pesquisadores colaboradores do Brasil e do mundo.
 

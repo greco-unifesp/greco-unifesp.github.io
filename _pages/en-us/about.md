@@ -37,7 +37,7 @@ social: false # includes social icons at the bottom of the page
     </div>
 </div>
 
-The Computer Networks Group, known by its Portuguese acronym **GRECO** 🇧🇷, was founded in 2024 at the [Institute of Science and Technology (ICT)](https://www.unifesp.br/campus/sjc/) of the [Federal University of São Paulo (UNIFESP)](https://www.unifesp.br), located in São José dos Campos (SP), with the goal of fostering and promoting research projects in the fields of Computer Networks and Distributed Systems.
+The Computer Networks Research Group, known by its Portuguese acronym **GRECO** 🇧🇷, was founded in 2024 at the [Institute of Science and Technology (ICT)](https://www.unifesp.br/campus/sjc/) of the [Federal University of São Paulo (UNIFESP)](https://www.unifesp.br), located in São José dos Campos (SP), with the goal of fostering and promoting research projects in the fields of Computer Networks and Distributed Systems.
 
 Our team includes permanent faculty members, postdoctoral researchers, PhD candidates, master’s students, undergraduate students engaged in Scientific Initiation research and collaborating researchers from Brazil and around the world.
 
