@@ -1,25 +1,25 @@
 ---
 layout: members
-title: Matheus Ramos Esteves
+title: Tiago Henrique Miranda Silva
 description: 
-img: assets/img/members/matheus.jpeg
-importance: 3
+img: assets/img/members/tiago.jpeg
+importance: 4
 category: Students
 # toc:
 #   sidebar: left
 
 profile:
-    name: Matheus Esteves
+    name: Tiago Miranda
     position: Undergraduate Student @ UNIFESP
     advisor: >
         Advisor: Joahannes Costa
-    image: matheus.jpeg
+    image: tiago.jpeg
     align: right
     image_circular: false # crops the image to make it circular
-    email: matheus.esteves31@unifesp.br
-    linkedin: matheusesteves31
+    email: tiago.miranda@unifesp.br
+    linkedin: tiago-h-miranda
     orcid: 
-    github: Esteves31
+    github: greco-unifesp
     website:
     address: >
         São José dos Campos, Brazil 🇧🇷
@@ -27,6 +27,6 @@ profile:
 
 ---
 
-**Theme**: Vehicular Edge Computing
+**Theme**: Federated Learning
 
-**Start**: 2024
+**Start**: 2025
