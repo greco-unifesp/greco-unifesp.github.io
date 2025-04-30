@@ -23,6 +23,18 @@ social: false # includes social icons at the bottom of the page
 [Institute of Science and Technology (ICT)](https://www.unifesp.br/campus/sjc/), [Federal University of São Paulo (UNIFESP)](https://www.unifesp.br)
 
 <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.liquid loading="eager" path="assets/img/greco.png" class="img-fluid rounded" width="300" zoomable=false %}
+    </div>
+</div>
+
+The Computer Networks Research Group, known by its Portuguese acronym **GRECO** 🇧🇷, was founded in 2024 at the [Institute of Science and Technology (ICT)](https://www.unifesp.br/campus/sjc/) of the [Federal University of São Paulo (UNIFESP)](https://www.unifesp.br), located in São José dos Campos (SP), with the goal of fostering and promoting research projects in the fields of Computer Networks and Distributed Systems.
+
+Our team includes permanent faculty members, postdoctoral researchers, PhD candidates, master’s students, undergraduate students engaged in Scientific Initiation research and collaborating researchers from Brazil and around the world.
+
+The **GRECO** is supported by research funding agencies, providing scholarships for Scientific Initiation, master’s, and PhD students. These partnerships play a vital role in training highly qualified human resources in Brazil.
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ict.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
@@ -36,12 +48,6 @@ social: false # includes social icons at the bottom of the page
         </div>
     </div>
 </div>
-
-The Computer Networks Research Group, known by its Portuguese acronym **GRECO** 🇧🇷, was founded in 2024 at the [Institute of Science and Technology (ICT)](https://www.unifesp.br/campus/sjc/) of the [Federal University of São Paulo (UNIFESP)](https://www.unifesp.br), located in São José dos Campos (SP), with the goal of fostering and promoting research projects in the fields of Computer Networks and Distributed Systems.
-
-Our team includes permanent faculty members, postdoctoral researchers, PhD candidates, master’s students, undergraduate students engaged in Scientific Initiation research and collaborating researchers from Brazil and around the world.
-
-The **GRECO** is supported by research funding agencies, providing scholarships for Scientific Initiation, master’s, and PhD students. These partnerships play a vital role in training highly qualified human resources in Brazil.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
