@@ -2,7 +2,7 @@
 layout: members
 title: Felipe Ribeiro Rosa
 description: 
-img: assets/img/members/aluno.png
+img: assets/img/members/felipe.jpeg
 importance: 1
 category: Estudantes
 # toc:
@@ -13,7 +13,7 @@ profile:
     position: Mestrando @ UNIFESP
     advisor: >
         Orientador: Bruno Y. L. Kimura
-    image: aluno.png
+    image: felipe.jpeg
     align: right
     image_circular: false # crops the image to make it circular
     email: rosa.felipe@unifesp.br
