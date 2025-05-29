@@ -11,7 +11,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-[Instituto de Ciência e Tecnologia (ICT)](https://www.unifesp.br/campus/sjc/), [Universidade Federal de São Paulo (UNIFESP)](https://www.unifesp.br)
+[Instituto de Ciência e Tecnolog-ia (ICT)](https://www.unifesp.br/campus/sjc/), [Universidade Federal de São Paulo (UNIFESP)](https://www.unifesp.br)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
